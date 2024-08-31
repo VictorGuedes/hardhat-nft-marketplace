@@ -7,4 +7,5 @@ yarn add --dev @nomiclabs/hardhat-ethers@npm:hardhat-deploy-ethers ethers @nomic
 
 yarn add --dev @openzeppelin/contracts
 
-yarn hardhat compile (compilar os contratos) 
+yarn hardhat compile (compilar os contratos)
+yarn hardhat deploy (deploy to localhost hardhat)
