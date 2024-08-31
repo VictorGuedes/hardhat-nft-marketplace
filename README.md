@@ -9,3 +9,6 @@ yarn add --dev @openzeppelin/contracts
 
 yarn hardhat compile (compilar os contratos)
 yarn hardhat deploy (deploy to localhost hardhat)
+
+yarn hardhat test
+yarn hardhat coverage
